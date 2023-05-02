@@ -1,0 +1,98 @@
+[
+  {
+    "id": 11,
+    "category_id": 2,
+    "chef_name": "Gordon Ramsay",
+    "bio": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality.",
+    "like": 10000,
+    "experiences": [
+      {
+        "name": "Restaurant Gordon Ramsay",
+        "description": "3-Michelin-starred restaurant in Chelsea, London."
+      },
+      {
+        "name": "MasterChef",
+        "description": "Cooking competition television show."
+      },
+      {
+        "name": "Hell's Kitchen",
+        "description": "Cooking reality show where contestants work in a restaurant."
+      }
+    ],
+    "image": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipe_items": [
+      { "name": "beef" },
+      { "name": "onion" },
+      { "name": "garlic" }
+    ]
+  },
+  {
+    "id": 111,
+    "category_id": 2,
+    "chef_name": "John Ramsay",
+    "bio": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, and television personality.",
+    "like": 30000,
+    "experiences": [
+      {
+        "name": "Restaurant Gordon Ramsay",
+        "description": "3-Michelin-starred restaurant in Chelsea, London."
+      },
+      {
+        "name": "MasterChef",
+        "description": "Cooking competition television show."
+      },
+      {
+        "name": "Hell's Kitchen",
+        "description": "Cooking reality show where contestants work in a restaurant."
+      }
+    ],
+    "image": "https://images.pexels.com/photos/3338675/pexels-photo-3338675.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipe_items": [
+      { "name": "beef" },
+      { "name": "onion" },
+      { "name": "garlic" }
+    ]
+  },
+  {
+    "id": 22,
+    "category_id": 1,
+    "chef_name": "Ina Garten",
+    "bio": "Ina Rosenberg Garten is an American author, chef, and television host.",
+    "like": 5000,
+    "experiences": [
+      {
+        "name": "Barefoot Contessa",
+        "description": "Food Network cooking show named after her specialty food store."
+      }
+    ],
+    "image": "https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipe_items": [
+      { "name": "butter" },
+      { "name": "flour" },
+      { "name": "milk" }
+    ]
+  },
+  {
+    "id": 32,
+    "category_id": 3,
+    "chef_name": "Jamie Oliver",
+    "bio": "James Trevor Oliver MBE is a British chef and restaurateur.",
+    "like": 8000,
+    "experiences": [
+      {
+        "name": "The Naked Chef",
+        "description": "BBC cooking show."
+      },
+      {
+        "name": "Jamie's Italian",
+        "description": "Chain of Italian restaurants founded by Jamie Oliver."
+      }
+    ],
+    "image": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "recipe_items": [
+      { "name": "olive oil" },
+      { "name": "red onion" },
+      { "name": "red pepper" }
+    ]
+  }
+]
