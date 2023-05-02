@@ -10,11 +10,13 @@ app.get('/',(reg, res)=>{
     res.send('chef server is running')
 })
 
-
+app.get("/category", (reg, res) => {
+  res.send(data);
+});
 
 app.get('/categories/:id',(reg,res)=>{
     const id = reg.params.id;
-    const chefItem = data.filter((item)=>item.category_id == id)
+    const chefItem = data.filter((item)=>item.id == id)
     res.send(chefItem);
 })
 
