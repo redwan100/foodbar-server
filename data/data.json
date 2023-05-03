@@ -123,9 +123,9 @@
     ],
     "image": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600",
     "recipe_items": [
-      { "name": "Kung Pao Chicken" },
+      { "name": "Kung Chicken" },
       { "name": "Mapo Tofu" },
-      { "name": "Hot and Sour Soup" }
+      { "name": "Hot Soup" }
     ]
   },
   {
@@ -148,9 +148,9 @@
     ],
     "image": "https://images.pexels.com/photos/4252146/pexels-photo-4252146.jpeg?auto=compress&cs=tinysrgb&w=600",
     "recipe_items": [
-      { "name": "Kung Pao Chicken" },
+      { "name": "Kung Chicken" },
       { "name": "Mapo Tofu" },
-      { "name": "Hot and Sour Soup" }
+      { "name": "Hot Soup" }
     ]
   }
 ]
